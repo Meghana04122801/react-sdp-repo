@@ -4,8 +4,8 @@ import './style.css';
 const Registration = () => {
   const [formData, setFormData] = useState({
     fullName: '',
-    gender: '',
     email: '',
+    gender: '',
     password: '',
     username: '',
     contactNo: '',
