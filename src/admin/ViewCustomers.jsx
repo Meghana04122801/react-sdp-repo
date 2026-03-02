@@ -1,4 +1,3 @@
-
 import React, { useState, useEffect } from 'react';
 import '../admin/admin.css';
 
@@ -104,9 +103,3 @@ export default function ViewCustomers() {
     </div>
   );
 }
-
-
-
-
-
-

@@ -1,4 +1,3 @@
-
 import React from 'react';
 
 export default function AdminHome() {
@@ -14,4 +13,3 @@ export default function AdminHome() {
     </div>
   );
 }
-
